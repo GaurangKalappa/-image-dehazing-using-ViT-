@@ -23,7 +23,12 @@ The notebook provides:
 - **Training and validation loss curves** to visualize the model's learning progress.
 - **Visual comparisons** between hazy inputs, clear ground-truth images, and predicted dehazed outputs.
 
-Numerical results and example images can be added after running the notebook and saving the outputs.
+Here are a few results:
+
+<img width="800" alt="sample1" src="https://github.com/user-attachments/assets/e806bcd3-9f9f-410a-8a43-e45b51ceddc2" />
+<img width="800" alt="sample0" src="https://github.com/user-attachments/assets/282761d9-82ff-4ed3-955d-9dc01b6b5ef2" />
+<img width="800" alt="sample3" src="https://github.com/user-attachments/assets/968d48f8-fc90-4f57-b5be-671f5ec5d7ce" />
+
 
 ## Acknowledgements
 
